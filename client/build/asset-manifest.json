@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56478a88.chunk.css",
+    "main.js": "/static/js/main.4defc6ac.chunk.js",
+    "main.js.map": "/static/js/main.4defc6ac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cea588d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cea588d5.js.map",
+    "static/js/2.d1e3b1c1.chunk.js": "/static/js/2.d1e3b1c1.chunk.js",
+    "static/js/2.d1e3b1c1.chunk.js.map": "/static/js/2.d1e3b1c1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f1b985eb5101c6db68d7939596358455.js": "/precache-manifest.f1b985eb5101c6db68d7939596358455.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.56478a88.chunk.css.map": "/static/css/main.56478a88.chunk.css.map",
+    "static/js/2.d1e3b1c1.chunk.js.LICENSE.txt": "/static/js/2.d1e3b1c1.chunk.js.LICENSE.txt",
+    "static/media/Freedom.jpg": "/static/media/Freedom.99d9b159.jpg",
+    "static/media/Review.jpg": "/static/media/Review.85861a7b.jpg",
+    "static/media/bottom.jpg": "/static/media/bottom.e01940f8.jpg",
+    "static/media/calc.jpg": "/static/media/calc.a3139e88.jpg",
+    "static/media/clientPicture1.jpg": "/static/media/clientPicture1.ff8ebddb.jpg",
+    "static/media/clientPicture2.jpg": "/static/media/clientPicture2.333fc4e7.jpg",
+    "static/media/clientPicture3.jpg": "/static/media/clientPicture3.3db5c739.jpg",
+    "static/media/clientPicture4.jpg": "/static/media/clientPicture4.97d4e97d.jpg",
+    "static/media/clientPicture5.jpg": "/static/media/clientPicture5.a4696cfc.jpg",
+    "static/media/consultant.jpg": "/static/media/consultant.d7497777.jpg",
+    "static/media/dollars.jpg": "/static/media/dollars.80e01ef2.jpg",
+    "static/media/hero.jpg": "/static/media/hero.6a6975a5.jpg",
+    "static/media/hero2.jpg": "/static/media/hero2.c1281cbd.jpg",
+    "static/media/hero3.jpg": "/static/media/hero3.d836a85b.jpg",
+    "static/media/investigation.jpg": "/static/media/investigation.bfd876fd.jpg",
+    "static/media/logo.png": "/static/media/logo.3d673e04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea588d5.js",
+    "static/js/2.d1e3b1c1.chunk.js",
+    "static/css/main.56478a88.chunk.css",
+    "static/js/main.4defc6ac.chunk.js"
+  ]
+}

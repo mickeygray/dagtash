@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
+    "netlify": "^3.0.0",
     "uuid": "^3.4.0"
   }
 }
